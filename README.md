@@ -1,1 +1,2 @@
 # Manos-Seguras-Cuba
+Manos Seguras Cuba, un aporte para el proyecto que lleva el mismo nombre de la Universidad de Ciencias Médicas de Cienfuegos en colaboración con la Universidad de Granada. Los contenidos y el visto bueno han sido aportados por la MsC. Zenia Tamara Sánchez García, co-coordinadora del proyecto en Cienfuegos. El app tienen contenidos explicativos a través de imágenes y videos acerca de la higiene de las manos y su importancia. Está destinada al personal de salud y a toda la población en general.
